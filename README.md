@@ -9,3 +9,4 @@ We consider the classification problem of a high-dimensional mixture of two Gaus
 Hanwen Huang and Peng Zeng (2024).
 Statistical Inference in Classification of High-dimensional Gaussian Mixture.
 https://arxiv.org/abs/2410.19950.
+https://doi.org/10.1088/1751-8121/adce65.
